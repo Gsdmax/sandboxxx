@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 14:00 IR
+- 📱 [v2rayNG_2.1.3_arm64-v8a.apk](https://github.com/Gsdmax/sandboxxx/raw/main/dl/v2rayNG_2.1.3_arm64-v8a.apk) `26.8MB`
+
+---
+
+
 ### 📅 2026-04-28 13:57 IR
 - 📱 [v2rayNG_2.1.3-fdroid_arm64-v8a.apk](https://github.com/Gsdmax/sandboxxx/raw/main/dl/v2rayNG_2.1.3-fdroid_arm64-v8a.apk) `26.8MB`
 
