@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 14:58 IR
+- 📱 [roundsync_v2.6.0-oss-arm64-v8a.apk](https://github.com/Gsdmax/sandboxxx/raw/main/dl/roundsync_v2.6.0-oss-arm64-v8a-release.apk) `36.9MB`
+
+---
+
+
 ### 📅 2026-04-28 14:00 IR
 - 📱 [v2rayNG_2.1.3_arm64-v8a.apk](https://github.com/Gsdmax/sandboxxx/raw/main/dl/v2rayNG_2.1.3_arm64-v8a.apk) `26.8MB`
 
